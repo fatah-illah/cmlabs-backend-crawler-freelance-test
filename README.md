@@ -26,7 +26,7 @@ Steps to use or run this project. These include:
    python main.py
    ```
    
-5. The crawling results will be saved into HTML files (cmlabs_crawled.html and sequence_day_crawled.html).
+5. The crawling results will be saved into HTML files (cmlabs_crawled.html, sequence_day_crawled.html, and python_org_crawled.html).
 
 6. To view the crawling results in a web browser:
    ```
@@ -48,6 +48,7 @@ A description of the directory structure of this project. This includes:
 ├── .gitignore
 ├── cmlabs_crawled.html
 ├── main.py
+├── python_org_crawled.html
 ├── README.md
 ├── requirements.txt
 └── sequence_day_crawled.html

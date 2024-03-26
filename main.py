@@ -21,7 +21,8 @@ def crawl_and_save(url, filename):
 # The website to be crawled and the file name to save the result
 websites = [
     {"url": "https://cmlabs.co", "filename": "cmlabs_crawled.html"},
-    {"url": "https://sequence.day", "filename": "sequence_day_crawled.html"}
+    {"url": "https://sequence.day", "filename": "sequence_day_crawled.html"},
+    {"url": "https://www.python.org", "filename": "python_org_crawled.html"}
 ]
 
 # Perform crawling for each website
