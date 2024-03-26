@@ -1,0 +1,15 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE specific files (e.g., PyCharm)
+.idea/
+
+# Ignore any other files or directories you don't want to include in your Git repository
